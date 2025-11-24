@@ -102,7 +102,7 @@ eval(model , test_o[6] , test_d[6])
 - [X] Implement the traniner class
 - [ ] Implement the MLP baseline (for benchmarking)
 
-- [ ] Extned the Dense Grid implementation (NGLOD) to Hash Grids (InstantNGPs)
+- [ X] Extned the Dense Grid implementation (NGLOD) to Hash Grids (InstantNGPs)
 
 - [ ] Train on different data sets
 - [ ] Add a setup.py file
